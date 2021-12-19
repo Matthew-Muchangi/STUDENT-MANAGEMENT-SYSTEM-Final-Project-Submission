@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1639289893 source:c:\users\asher\onedrive\documents\strathmore university\repeats sem 1\introduction to programming\for matt\student_management_system\main.cpp
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<conio.h>
+	<string>
+	<mysql.h>
+	<sstream>
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\mysql.h
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"mysql/client_plugin.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1630993828 c:\program files (x86)\mysql\mysql server 5.7\include\mysql_version.h
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\mysql_com.h
+	"binary_log_types.h"
+	"my_command.h"
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\binary_log_types.h
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\my_command.h
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\mysql_time.h
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\my_list.h
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\typelib.h
+	"my_alloc.h"
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\my_alloc.h
+	"mysql/psi/psi_memory.h"
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\mysql\psi\psi_memory.h
+	"psi_base.h"
+
+1630981608 c:\program files (x86)\mysql\mysql server 5.7\include\mysql\psi\psi_base.h
+
